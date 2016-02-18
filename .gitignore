@@ -7,6 +7,7 @@
 .project
 .classpath
 .settings/
+target/
 
 # Package Files #
 *.jar
